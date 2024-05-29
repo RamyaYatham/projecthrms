@@ -18,6 +18,8 @@ public void login() {
 }
 @Test(priority=4,groups="Functional")
 public void logout() {
+	gdfhjkg
+		fgmg78865
 	Reporter.log("functional test case",true);
 }
 	}
